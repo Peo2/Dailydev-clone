@@ -7,8 +7,6 @@ function App() {
   return (
     <div className='bg-mainbg  w-full h-full relative overflow-auto'>
       <Header/>
-      
-  
     </div>
   );
 }
